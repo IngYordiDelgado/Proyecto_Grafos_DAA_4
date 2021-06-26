@@ -7,11 +7,15 @@
 Yordi Edgardo Delgado Ortiz 
 
 * Información:
-Algoritmos de árbol de expansión mínima
-Utilizando la biblioteca de grafos desarrollada en el proyecto 1, implementar los algoritmos de Kruskal (directo e inverso) y Prim de tal forma que calculen el árbol de expansión mínima; es decir, desarrollar los métodos en la clase Grafo:
-def KruskalD(self):
-def KruskalI(self):
-def Prim(self):
+** Proyecto 04 - Algoritmos de árbol de expansión mínima
+Utilizando la biblioteca de grafos desarrollada en el proyecto 1, implementar
+los algoritmos de Kruskal (directo e inverso) y Prim de tal forma que calculen
+el árbol de expansión mínima; es decir, desarrollar los métodos en la clase
+Grafo:
+- =def KruskalD(self):=
+- =def KruskalI(self):=
+- =def Prim(self):=
+
 
 
  

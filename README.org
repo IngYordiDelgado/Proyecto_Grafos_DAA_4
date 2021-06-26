@@ -24,9 +24,9 @@ Grafo:
 ** 30 nodos(5x6)
 - [[./Archivos gv/Mallas/grafo_malla_30_nodos.gv][Archivo Graphviz]]
 [[./Images/Mallas/Mallas_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Mallas/grafo_malla_30_nodos_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Mallas/Mallas_30_dijkstra.png]]
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Mallas/grafo_malla_30_nodos_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Mallas/Mallas_30_KruskalD.png]]
 
 ** 500 nodos(50x10)
 - [[./Archivos gv/Mallas/grafo_malla_500_nodos.gv][Archivo Graphviz]]

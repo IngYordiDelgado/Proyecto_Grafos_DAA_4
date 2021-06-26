@@ -34,7 +34,7 @@ Grafo:
 [[./Images/Mallas/Mallas_30_KruskalI.png]]
 *** Árbol de Expansión Mínima(Prim)
 - [[./Archivos gv/Mallas/grafo_malla_30_nodos_Prim.gv][Archivo Graphviz]]
-[[./Images/Mallas/MST_Prim_Costo30.png]]
+[[./Images/Mallas/MST_Prim_Costo30.PNG]]
 [[./Images/Mallas/Mallas_30_Prim.png]]
 
 ** 500 nodos(50x10)

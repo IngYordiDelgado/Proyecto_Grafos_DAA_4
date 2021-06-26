@@ -26,6 +26,7 @@ Grafo:
 [[./Images/Mallas/Mallas_30.png]]
 *** Árbol de Expansión Mínima(KruskalD)
 - [[./Archivos gv/Mallas/grafo_malla_30_nodos_KruskalD.gv][Archivo Graphviz]]
+- [[./Archivos gv/Mallas/MST_KruskalD30_Costo][Archivo Graphviz]]
 [[./Images/Mallas/Mallas_30_KruskalD.png]]
 
 ** 500 nodos(50x10)

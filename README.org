@@ -162,7 +162,7 @@ Grafo:
 - [[./Archivos gv/Babarasi/grafo_babarasi_30_10_Kruskal_I.gv][Archivo Graphviz]]
 [[./Images/Babarasi/MST_Babarasi30_KruskalI_Costo.PNG]]
 [[./Images/Babarasi/Babarasi_30_KruskalI.png]]
-*** Árbol de Expansión Mínima(KruskalI)
+*** Árbol de Expansión Mínima(Prim)
 - [[./Archivos gv/Babarasi/grafo_babarasi_30_10_Prim.gv][Archivo Graphviz]]
 [[./Images/Babarasi/MST_Babarasi30_Prim_Costo.PNG]]]
 [[./Images/Babarasi/Babarasi_30_Prim.png]]
@@ -170,9 +170,18 @@ Grafo:
 ** 500 nodos y grado 12
 - [[./Archivos gv/Babarasi/grafo_babarasi_500_12.gv][Archivo Graphviz]]
 [[./Images/Babarasi/Babarasi_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Babarasi/grafo_babarasi_500_12_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Babarasi/Babarasi_500_dijkstra.png]]
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Babarasi/grafo_babarasi_500_12_Kruskal_D.gv][Archivo Graphviz]]
+[[./Images/Babarasi/MST_Babarasi500_KruskalD_Costo.PNG]]
+[[./Images/Babarasi/Babarasi_500_KruskalD.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Babarasi/grafo_babarasi_500_12_Kruskal_I.gv][Archivo Graphviz]]
+[[./Images/Babarasi/MST_Babarasi500_KruskalI_Costo.PNG]]
+[[./Images/Babarasi/Babarasi_500_KruskalI.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Babarasi/grafo_babarasi_500_12_Prim.gv][Archivo Graphviz]]
+[[./Images/Babarasi/MST_Babarasi500_Prim_Costo.PNG]]]
+[[./Images/Babarasi/Babarasi_500_Prim.png]]
 
 * Modelo Dorogovtsev
 ** 30 nodos

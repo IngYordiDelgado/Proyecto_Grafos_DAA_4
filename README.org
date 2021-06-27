@@ -49,7 +49,7 @@ Grafo:
 [[./Images/Mallas/MST_KruskalI500_Costo.PNG]]
 [[./Images/Mallas/MST_KruskalI500.png]]
 *** Árbol de Expansión Mínima(Prim)
-- [[./Archivos gv/Mallas/grafo_erdos_500_2500_Prim.gv][Archivo Graphviz]]
+- [[./Archivos gv/Mallas/grafo_malla_500_nodos_Prim.gv][Archivo Graphviz]]
 [[./Images/Mallas/MST_Prim_Costo500.PNG]]
 [[./Images/Mallas/MST_Prim500.png]]
 
@@ -81,7 +81,7 @@ Grafo:
 [[./Images/Erdos/MST_Erdos500_KruskalI_Costo.PNG]]
 [[./Images/Erdos/Erdos_500_KruskalI.png]]
 *** Árbol de Expansión Mínima(Prim)
-- [[./Archivos gv/Erdos/grafo_erdos_500_200_Prim.gv][Archivo Graphviz]]
+- [[./Archivos gv/Erdos/grafo_erdos_500_2500_Prim.gv][Archivo Graphviz]]
 [[./Images/Erdos/MST_Erdos500_Prim_Costo.PNG]]
 [[./Images/Erdos/Erdos_500_Prim.png]]
 

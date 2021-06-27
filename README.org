@@ -61,6 +61,10 @@ Grafo:
 - [[./Archivos gv/Erdos/grafo_erdos_30_200_KruskalD.gv][Archivo Graphviz]]
 [[./Images/Erdos/MST_Erdos30_KruskalD_Costo.PNG]]
 [[./Images/Erdos/Erdos_30_KruskalD.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Erdos/grafo_erdos_30_200_KruskalI.gv][Archivo Graphviz]]
+[[./Images/Erdos/MST_Erdos30_KruskalI_Costo.PNG]]
+[[./Images/Erdos/Erdos_30_KruskalI.png]]
 ** 500 Nodos y 2500 Aristas
 - [[./Archivos gv/Erdos/grafo_erdos_500_2500.gv][Archivo Graphviz]]
 [[./Images/Erdos/Erdos_500.png]]

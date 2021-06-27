@@ -140,15 +140,15 @@ Grafo:
 *** Árbol de Expansión Mínima(KruskalD)
 - [[./Archivos gv/Geografico/grafo_geografico_500_01_KruskalD.gv][Archivo Graphviz]]
 [[./Images/Geografico/MST_Geografico500_KruskalD_Costo.PNG]]
-[[./Images/Geografico/grafo_geografico_500_01_KruskalD.png]]
+[[./Images/Geografico/geografico_500_KruskalD.png]]
 *** Árbol de Expansión Mínima(KruskalI)
 - [[./Archivos gv/Geografico/grafo_geografico_500_01_KruskalI.gv][Archivo Graphviz]]
-[[./Images/Geografico/MST_Geografico500_KruskalI_Costo.PNG]]
-[[./Images/Geografico/grafo_geografico_500_01_KruskalI.png]]
+[[./Images/Geografico/MST_Geografico500_Prim_Costo.PNG]]
+[[./Images/Geografico/geografico_500_KruskalI.png]]
 *** Árbol de Expansión Mínima(KruskalI)
 - [[./Archivos gv/Geografico/grafo_geografico_500_01_Prim.gv][Archivo Graphviz]]
 [[./Images/Geografico/MST_Geografico500_Prim.PNG]]
-[[./Images/Geografico/grafo_geografico_500_01_Prim.png]]
+[[./Images/Geografico/geografico_500_Prim.png]]
 
 * Modelo Barabasi
 ** 30 nodos y grado 10

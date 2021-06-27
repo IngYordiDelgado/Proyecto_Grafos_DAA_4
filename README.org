@@ -147,7 +147,7 @@ Grafo:
 [[./Images/Geografico/geografico_500_KruskalI.png]]
 *** Árbol de Expansión Mínima(KruskalI)
 - [[./Archivos gv/Geografico/grafo_geografico_500_01_Prim.gv][Archivo Graphviz]]
-[[./Images/Geografico/MST_Geografico500_Prim.PNG]]
+[[./Images/Geografico/MST_Geografico500_Prim_Costo.PNG]]
 [[./Images/Geografico/geografico_500_Prim.png]]
 
 * Modelo Barabasi

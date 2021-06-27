@@ -112,11 +112,11 @@ Grafo:
 *** Árbol de Expansión Mínima(KruskalI)
 - [[./Archivos gv/Gilbert/grafo_gilbert_500_002_KruskalI.gv][Archivo Graphviz]]
 [[./Images/Gilbert/MST_Gilbert500_KruskalD_Costo.PNG]]
-[[./Images/Gilbert/Gilbert_500_KruskalI.png]]
+[[./Images/Gilbert/Gilbert_500_ KruskalI.png]]
 *** Árbol de Expansión Mínima(Prim)
 - [[./Archivos gv/Gilbert/grafo_gilbert_500_002_Prim.gv][Archivo Graphviz]]
 [[./Images/Gilbert/MST_Gilbert500_Prim_Costo.PNG]]
-[[./Images/Gilbert/Gilbert_500_Prim.png]]
+[[./Images/Gilbert/Gilbert_500_ Prim.png]]
 
 * Modelo Geográfico
 ** 30 nodos y distancia 0.5

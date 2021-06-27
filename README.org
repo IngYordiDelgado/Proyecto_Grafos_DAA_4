@@ -189,7 +189,7 @@ Grafo:
 [[./Images/Dogorostev/Dogorostev_30.png]]
 *** Árbol de Expansión Mínima(KruskalD)
 - [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_KruskalD.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/MST_Dogorostev30_KruskalD_Costo.png]]
+[[./Images/Dogorostev/MST_Dogorostev30_KruskalD_Costo.PNG]]
 [[./Images/Dogorostev/Dogorostev_30_KruskalD.png]]
 ** 500 nodos
 - [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500.gv][Archivo Graphviz]]

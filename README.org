@@ -191,9 +191,25 @@ Grafo:
 - [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_KruskalD.gv][Archivo Graphviz]]
 [[./Images/Dogorostev/MST_Dogorostev30_KruskalD_Costo.PNG]]
 [[./Images/Dogorostev/Dogorostev_30_KruskalD.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_KruskalI.gv][Archivo Graphviz]]
+[[./Images/Dogorostev/MST_Dogorostev30_KruskalI_Costo.PNG]]
+[[./Images/Dogorostev/Dogorostev_30_KruskalI.png]]
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_Prim.gv][Archivo Graphviz]]
+[[./Images/Dogorostev/MST_Dogorostev30_Prim_Costo.PNG]]
+[[./Images/Dogorostev/Dogorostev_30_Prim.png]]
+
 ** 500 nodos
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_500_dijkstra.png]]
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Dogorostev/MST_Dogorostev500_KruskalD_Costo.PNG]]
+[[./Images/Dogorostev/Dogorostev_500_KruskalD.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500_KruskalI.gv][Archivo Graphviz]]
+[[./Images/Dogorostev/MST_Dogorostev500_KruskalI_Costo.PNG]]
+[[./Images/Dogorostev/Dogorostev_500_KruskalI.png]]
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500_Prim.gv][Archivo Graphviz]]
+[[./Images/Dogorostev/MST_Dogorostev500_Prim_Costo.PNG]]
+[[./Images/Dogorostev/Dogorostev_500_Prim.png]]

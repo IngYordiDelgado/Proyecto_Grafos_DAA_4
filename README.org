@@ -89,10 +89,10 @@ Grafo:
 ** 30 nodos y probabilidad 0.5
 - [[./Archivos gv/Gilbert/grafo_gilbert_30_05.gv][Archivo Graphviz]]
 [[./Images/Gilbert/Gilbert_30 .png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Gilbert/grafo_gilbert_30_05_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Gilbert/Gilbert_30_dijkstra .png]]
-
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Gilbert/grafo_gilbert_30_05_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Gilbert/MST_Gilbert30_KruskalD_Costo.PNG]]
+[[./Images/Gilber/Gilbert_30_KruskalD.png]]
 ** 500 nodos y probabilidad 0.02
 - [[./Archivos gv/Gilbert/grafo_gilbert_500_002.gv][Archivo Graphviz]]
 [[./Images/Gilbert/Gilbert_500 .png]]

@@ -122,16 +122,33 @@ Grafo:
 ** 30 nodos y distancia 0.5
 - [[./Archivos gv/Geografico/grafo_geografico_30_05.gv][Archivo Graphviz]]
 [[./Images/Geografico/geografico_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Geografico/grafo_geografico_30_05_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Geografico/geografico_30_dijkstra.png]]
-
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Geografico/grafo_geografico_30_05_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Geografico/MST_Geografico30_KruskalD_Costo.PNG]]
+[[./Images/Geografico/geografico_30_KruskalD.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Geografico/grafo_geografico_30_05_KruskalI.gv][Archivo Graphviz]]
+[[./Images/Geografico/MST_Geografico30_KruskalI_Costo.PNG]]
+[[./Images/Geografico/geografico_30_KruskalI.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Geografico/grafo_geografico_30_05_Prim.gv][Archivo Graphviz]]
+[[./Images/Geografico/MST_Geografico30_Prim.PNG]]
+[[./Images/Geografico/geografico_30_Prim.png]]
 ** 500 nodos y distancia 0.15
 - [[./Archivos gv/Geografico/grafo_geografico_500_01.gv][Archivo Graphviz]]
 [[./Images/Geografico/geografico_500.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Geografico/grafo_geografico_500_01_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Geografico/geografico_500_dijkstra.png]]
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Geografico/grafo_geografico_500_01_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Geografico/MST_Geografico500_KruskalD_Costo.PNG]]
+[[./Images/Geografico/grafo_geografico_500_01_KruskalD.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Geografico/grafo_geografico_500_01_KruskalI.gv][Archivo Graphviz]]
+[[./Images/Geografico/MST_Geografico500_KruskalI_Costo.PNG]]
+[[./Images/Geografico/grafo_geografico_500_01_KruskalI.png]]
+*** Árbol de Expansión Mínima(KruskalI)
+- [[./Archivos gv/Geografico/grafo_geografico_500_01_Prim.gv][Archivo Graphviz]]
+[[./Images/Geografico/MST_Geografico500_Prim.PNG]]
+[[./Images/Geografico/grafo_geografico_500_01_Prim.png]]
 
 * Modelo Barabasi
 ** 30 nodos y grado 10

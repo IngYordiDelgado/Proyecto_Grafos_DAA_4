@@ -155,11 +155,11 @@ Grafo:
 - [[./Archivos gv/Babarasi/grafo_babarasi_30_10.gv][Archivo Graphviz]]
 [[./Images/Babarasi/Babarasi_30.png]]
 *** Árbol de Expansión Mínima(KruskalD)
-- [[./Archivos gv/Babarasi/grafo_babarasi_30_10_KruskalD.gv][Archivo Graphviz]]
+- [[./Archivos gv/Babarasi/grafo_babarasi_30_10_Kruskal_D.gv][Archivo Graphviz]]
 [[./Images/Geografico/MST_Babarasi30_KruskalD_Costo.PNG]]
 [[./Images/Babarasi/Babarasi_30_KruskalD.png]]
 *** Árbol de Expansión Mínima(KruskalI)
-- [[./Archivos gv/Babarasi/grafo_babarasi_30_10_KruskalI.gv][Archivo Graphviz]]
+- [[./Archivos gv/Babarasi/grafo_babarasi_30_10_Kruskal_I.gv][Archivo Graphviz]]
 [[./Images/Geografico/MST_Babarasi30_KruskalI_Costo.PNG]]
 [[./Images/Babarasi/Babarasi_30_KruskalI.png]]
 *** Árbol de Expansión Mínima(KruskalI)

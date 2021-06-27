@@ -108,7 +108,7 @@ Grafo:
 *** Árbol de Expansión Mínima(KruskalD)
 - [[./Archivos gv/Gilbert/grafo_gilbert_500_002_KruskalD.gv][Archivo Graphviz]]
 [[./Images/Gilbert/MST_Gilbert500_KruskalD_Costo.PNG]]
-[[./Images/Gilbert/Gilbert_500_KruskalD.png]]
+[[./Images/Gilbert/Gilbert_500_ KruskalD.png]]
 *** Árbol de Expansión Mínima(KruskalI)
 - [[./Archivos gv/Gilbert/grafo_gilbert_500_002_KruskalI.gv][Archivo Graphviz]]
 [[./Images/Gilbert/MST_Gilbert500_KruskalD_Costo.PNG]]

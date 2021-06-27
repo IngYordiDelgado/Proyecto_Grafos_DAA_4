@@ -73,7 +73,7 @@ Grafo:
 - [[./Archivos gv/Erdos/grafo_erdos_500_2500.gv][Archivo Graphviz]]
 [[./Images/Erdos/Erdos_500.png]]
 *** Árbol de Expansión Mínima(KruskalD)
-- [[./Archivos gv/Erdos/grafo_erdos_500_200_KruskalD.gv][Archivo Graphviz]]
+- [[./Archivos gv/Erdos/grafo_erdos_500_2500_KruskalD.gv][Archivo Graphviz]]
 [[./Images/Erdos/MST_Erdos500_KruskalD_Costo.PNG]]
 [[./Images/Erdos/Erdos_500_KruskalD.png]]
 *** Árbol de Expansión Mínima(KruskalD)

@@ -57,10 +57,10 @@ Grafo:
 ** 30 Nodos y 200 Aristas
 - [[./Archivos gv/Erdos/grafo_erdos_30_200.gv][Archivo Graphviz]]
 [[./Images/Erdos/Erdos_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Erdos/grafo_erdos_30_200_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Erdos/Erdos_30_dijkstra.png]]
-
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Erdos/grafo_erdos_30_200_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Erdos/MST_Erdos30_KruskalD_Costo.PNG]]
+[[./Images/Erdos/Erdos_30_KruskalD.png]]
 ** 500 Nodos y 2500 Aristas
 - [[./Archivos gv/Erdos/grafo_erdos_500_2500.gv][Archivo Graphviz]]
 [[./Images/Erdos/Erdos_500.png]]

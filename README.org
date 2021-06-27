@@ -187,10 +187,10 @@ Grafo:
 ** 30 nodos
 - [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30.gv][Archivo Graphviz]]
 [[./Images/Dogorostev/Dogorostev_30.png]]
-*** Arbol de caminos mas cortos(Djikstra)
-- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_Dijkstra.gv][Archivo Graphviz]]
-[[./Images/Dogorostev/Dogorostev_30_dijkstra.png]]
-
+*** Árbol de Expansión Mínima(KruskalD)
+- [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_30_KruskalD.gv][Archivo Graphviz]]
+[[./Images/Dogorostev/MST_Dogorostev30_KruskalD_Costo.png]]
+[[./Images/Dogorostev/Dogorostev_30_KruskalD.png]]
 ** 500 nodos
 - [[./Archivos gv/Dogorostev/grafo_dorogovtsev_mendes_500.gv][Archivo Graphviz]]
 [[./Images/Dogorostev/Dogorostev_500.png]]

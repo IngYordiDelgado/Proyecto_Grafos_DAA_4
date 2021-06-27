@@ -92,7 +92,7 @@ Grafo:
 *** Árbol de Expansión Mínima(KruskalD)
 - [[./Archivos gv/Gilbert/grafo_gilbert_30_05_KruskalD.gv][Archivo Graphviz]]
 [[./Images/Gilbert/MST_Gilbert30_KruskalD_Costo.PNG]]
-[[./Images/Gilber/Gilbert_30_KruskalD.png]]
+[[./Images/Gilbert/Gilbert_30_KruskalD.png]]
 ** 500 nodos y probabilidad 0.02
 - [[./Archivos gv/Gilbert/grafo_gilbert_500_002.gv][Archivo Graphviz]]
 [[./Images/Gilbert/Gilbert_500 .png]]
